@@ -1,16 +1,76 @@
-## Hi there 👋
 
-<!--
-**Sejal-31/Sejal-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=700&lines=Hi+There!+👋;I'm+Sejal+Bedre;" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<!-- Header -->
+<h2 align="center">👩‍💻 About Me</h2>
+<p align="center">
+🌱 Exploring AI, Data Analytics & GenAI <br>
+💡 Building AI-powered Health & Fitness Assistant Projects <br>
+🎯 Goal: To become a skilled Data Analyst / AI Engineer <br>
+📫 Reach me: <a href="mailto:sejalbedre@gmail.com">sejalbedre@gmail.com</a>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center"> 🛠️ Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,django,tensorflow,opencv" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,git" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=github,vscode,linux,docker,figma" />
+</p>
+
+---
+
+
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sejal-31&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sejal-31&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-31&layout=compact&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+<p align="center">
+  🔹 <a href="https://github.com/Sejal-31/AI-Health-Consultancy">AI Health Consultancy</a> <br>
+  🔹 <a href="https://github.com/Sejal-31/Student-Performance-Dashboard">Student Performance Dashboard</a> <br>
+  🔹 <a href="https://github.com/Sejal-31/Fraud-Detection">Fraud Detection in Financial Transactions</a>
+</p>
+
+---
+
+<h2 align="center" >Let's Collaborate  </h2> 
+
+<p align="center">
+  <!-- Waving hand GIF -->
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" height="" alt="Hi">
+
+<p align="center">
+  <a href="mailto:sejalbedre@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sejal-sunil-bedre-369ab8229/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.kaggle.com/sejal2003">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+  <a href="https://github.com/Sejal-31">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+
+
