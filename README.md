@@ -54,7 +54,7 @@
 
 <h2>Let's Collaborate  </h2> 
 
-<p>
+<p align="center">
   <!-- Waving hand GIF -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" height="" alt="Hi">
 
