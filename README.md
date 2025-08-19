@@ -58,7 +58,7 @@
   <!-- Waving hand GIF -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" height="" alt="Hi">
 
-<p>
+<p align="center">
   <a href="mailto:sejalbedre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
