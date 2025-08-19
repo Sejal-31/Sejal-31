@@ -5,17 +5,20 @@
 </p>
 
 <!-- Header -->
-<h2 align="center">👩‍💻 About Me</h2>
-<p align="center">
-🌱 Exploring AI, Data Analytics & GenAI <br>
-💡 Building AI-powered Health & Fitness Assistant Projects <br>
-🎯 Goal: To become a skilled Data Analyst / AI Engineer <br>
-📫 Reach me: <a href="mailto:sejalbedre@gmail.com">sejalbedre@gmail.com</a>  
+<h2>👩‍💻 About Me</h2> 
+<p>
+- 🎓 Passionate Data Analyst with a strong foundation in Python, SQL, and Power BI <br>
+- 🚀 Exploring Generative AI, LLMs, and Agentic AI to build intelligent solutions  <br>
+- 💻 Experienced with data visualization, dashboards, and web development (Flask/Django)<br>
+- 📊 Love transforming raw data into actionable insights & interactive dashboards <br>
+- 🧩 Always curious to solve real-world problems using AI + Data<br>
+- 🤝 Open to collaborating on AI, Data Analytics, and Open Source Projects 
 </p>
 
-<h2 align="center"> 🛠️ Tech Stack & Tools</h2>
 
-<p align="center">
+<h2> 🛠️ Tech Stack & Tools</h2>
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,java,mysql,django,tensorflow,opencv" />
   <br/>
   <img src="https://skillicons.dev/icons?i=js,html,css,mongodb,git" />
@@ -28,20 +31,20 @@
 
 
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
+<h2>📊 GitHub Stats</h2>
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=Sejal-31&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sejal-31&theme=tokyonight" height="165"/>
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sejal-31&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
-<p align="center">
+<h2>🚀 Featured Projects</h2>
+<p>
   🔹 <a href="https://github.com/Sejal-31/AI-Health-Consultancy">AI Health Consultancy</a> <br>
   🔹 <a href="https://github.com/Sejal-31/Student-Performance-Dashboard">Student Performance Dashboard</a> <br>
   🔹 <a href="https://github.com/Sejal-31/Fraud-Detection">Fraud Detection in Financial Transactions</a>
@@ -49,13 +52,13 @@
 
 ---
 
-<h2 align="center" >Let's Collaborate  </h2> 
+<h2>Let's Collaborate  </h2> 
 
-<p align="center">
+<p>
   <!-- Waving hand GIF -->
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="100" height="" alt="Hi">
 
-<p align="center">
+<p>
   <a href="mailto:sejalbedre@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -69,8 +72,3 @@
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
----
-
-
-
